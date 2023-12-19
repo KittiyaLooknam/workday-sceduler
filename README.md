@@ -13,10 +13,13 @@ This application is a single day planning tool. The code writted using HTML, CSS
 Upload index.html, license.txt, and assets folder to the deployed webserver. Assets folder contains JavaScript and CSS files.
 
 The application shown below was deployed using GitHub Pages. The repository can be replicated by via fork, clone, and redeployment with GitHub Pages.
-Link to repository: ...................................................
-
+Link to repository:(https://github.com/KittiyaLooknam/workday-sceduler.git)
 # Usage
-Link to deployed instance of the application:
+Link to deployed instance of the application:  https://github.com/KittiyaLooknam/workday-sceduler.git
+
+
+![image](https://github.com/KittiyaLooknam/workday-sceduler/assets/149645563/3daa707c-4d6e-4103-a4c4-fbbd5f3a4fd2)
+
 
 # Referenced Utilized
 https://api.jquery.com
